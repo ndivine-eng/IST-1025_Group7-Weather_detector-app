@@ -1,5 +1,7 @@
-Weather Detection App
-Group members:
+# Weather Forecast Desktop App 
+
+
+# Group members:
 - Grace Nyambura Muguna 673294
 - Maker Panom Chuol 673168
 - viola awuor okello 673013
@@ -7,31 +9,82 @@ Group members:
 - Manuela Atuhurire 665404
 - Igiraneza Eliphaz 673344
 
-This is a Python-based GUI Weather Detection App built using **PyQt6**, **OpenWeatherMap API**, and **OpenCV**. It allows users to get **current weather data**, **5-day forecasts**, and includes **image processing** for an enhanced background UI experience.
+# Weather Forecast Desktop App 
 
-Features
-- Real-time weather updates using OpenWeatherMap API
-- 5-day weather forecast
-- Temperature conversion between Celsius, Fahrenheit, and Kelvin
-- Support for multiple languages (English, French, Spanish, Kinyarwanda)
-- Blue-tinted background using OpenCV for UI aesthetics
-- GUI created using PyQt6
+# Weather App
 
-Tech Stack
-- Python 3
-- PyQt6 (for GUI)
+## Overview
+The Weather App provides real-time weather information and a 5-day weather forecast for any city around the world. Users can view the current weather, including temperature, humidity, wind speed, pressure, and the sunrise and sunset times. Additionally, the app allows users to get weather forecasts for the next five days. The app features multiple language and temperature unit options for a customized user experience.
+
+---
+
+## Features
+- Displays current weather information such as temperature, humidity, pressure, wind speed, and more.
+- Provides a 5-day weather forecast.
+- Language support for multiple languages including English, French, Spanish, and Kinyarwanda.
+- Temperature conversion between Celsius, Fahrenheit, and Kelvin.
+- Beautiful GUI interface with a background image and blue tint for a visually appealing experience.
+
+---
+
+## Technologies Used
+- Python
+- PyQt6 (for GUI development)
+- OpenWeatherMap API (for weather data)
 - OpenCV (for image processing)
+- NumPy (for image manipulation)
 - Requests (for API calls)
-- NumPy (for numerical operations)
-- Pytz (for timezone handling)
-Screenshot
-> The app fetches and displays:
-- Current weather conditions (temp, humidity, wind speed, etc.)
-- Sunrise and sunset times in local timezone
-- 5-day weather forecast
-Installation
-1. Clone the repository:
+- Pytz (for time zone conversion)
+- System (for handling system-level functions)
+
+---
+
+
+## Group Members and Contributions
+
+| Member Name             | Student ID | Contribution                                                                 |
+|-------------------------|------------|------------------------------------------------------------------------------|
+| **Grace Nyambura Muguna** | 673294     | Designed and implemented the GUI interface using PyQt6.                      |
+| **Maker Panom Chuol**     | 673168     | Handled API integration and logic for real-time and forecast data fetching. |
+| **Viola Awuor Okello**    | 673013     | Implemented image processing logic with OpenCV and managed background visuals. |
+| **Nubuhoro Divine**       | 673390     | Added language and unit conversion features, and improved UX.               |
+| **Manuela Atuhurire**     | 665404     | Worked on exception handling, testing, and user input validation.           |
+**Igiraneza Eliphaz **      | 673344    | Added language translation functionality and formatted the forecast output
+
+---
+
+## Continuous and Comprehensive Evaluation (CCE)
+
+**Continuous and Comprehensive Evaluation (CCE)** is a method of assessment introduced in modern education systems. It evaluates both academic and co-curricular performance of students regularly and holistically.
+
+### How We Applied CCE in This Project:
+
+- **Continuous Evaluation**
+  - Weekly team meetings to track progress.
+  - Milestone check-ins after each development sprint.
+  - Constant testing of components during implementation.
+
+- **Comprehensive Evaluation**
+  - Each member contributed in various aspects: coding, design, testing, and debugging.
+  - Encouraged creativity and critical thinking, especially in the UI and multilingual functionality.
+  - Promoted teamwork, responsibility, and adaptability.
+
+Through this project, we applied class concepts practically while learning how to work collaboratively, meeting deadlines and applying real-world software development processes.
+
+## Installation
+
+1. **Clone the Repository**
    ```bash
-   git clone https://github.com/ndivine-eng/Weather_detector-app.git
-   cd weather-detection-app
-   
+   git clone https://github.com/ndivine-eng/IST-1025_Group7-Weather_detector-app
+   cd  IST-1025_Group7-Weather_detector-app
+
+## Install Dependencies
+pip install -r requirements.txt
+
+## Run the App
+python IST-1025_Group7-Weather_detector-app.py
+
+## Acknowledgments
+
+- Special thanks to our instructor for guiding us.
+- Thanks to OpenWeatherMap for providing free API access.
