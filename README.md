@@ -31,6 +31,6 @@ Screenshot
 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather-detection-app.git
+   git clone https://github.com/ndivine-eng/Weather_detector-app.git
    cd weather-detection-app
    
