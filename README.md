@@ -1,5 +1,4 @@
-# Weather Detection App 🌤️
-
+Weather Detection App
 Group members:
 - Grace Nyambura Muguna 673294
 - Maker Panom Chuol 673168
