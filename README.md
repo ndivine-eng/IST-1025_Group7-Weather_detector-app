@@ -49,7 +49,7 @@ The Weather App provides real-time weather information and a 5-day weather forec
 | **Viola Awuor Okello**    | 673013     | Implemented image processing logic with OpenCV and managed background visuals. |
 | **Nubuhoro Divine**       | 673390     | Added language and unit conversion features, and improved UX.               |
 | **Manuela Atuhurire**     | 665404     | Worked on exception handling, testing, and user input validation.           |
-**Igiraneza Eliphaz **      | 673344    | Added language translation functionality and formatted the forecast output
+| **Igiraneza Eliphaz **      | 673344    | Added language translation functionality and formatted the forecast output
 
 ---
 
