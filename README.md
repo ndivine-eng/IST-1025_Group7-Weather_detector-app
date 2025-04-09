@@ -1,5 +1,9 @@
 # Weather Detection App 🌤️
 
+Group members:
+Grace Nyambura Muguna
+Muguna04
+
 This is a Python-based GUI Weather Detection App built using **PyQt6**, **OpenWeatherMap API**, and **OpenCV**. It allows users to get **current weather data**, **5-day forecasts**, and includes **image processing** for an enhanced background UI experience.
 
 ## 🔧 Features
@@ -33,3 +37,4 @@ This is a Python-based GUI Weather Detection App built using **PyQt6**, **OpenWe
    ```bash
    git clone https://github.com/your-username/weather-detection-app.git
    cd weather-detection-app
+   
