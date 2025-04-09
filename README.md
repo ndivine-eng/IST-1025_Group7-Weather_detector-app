@@ -88,3 +88,6 @@ python IST-1025_Group7-Weather_detector-app.py
 
 - Special thanks to our instructor for guiding us.
 - Thanks to OpenWeatherMap for providing free API access.
+
+Our GUI Screen shot:
+<img width="302" alt="image" src="https://github.com/user-attachments/assets/20c4c370-69aa-4971-ae7b-190d4f5ec92b" />
