@@ -6,6 +6,7 @@ Group members:
 - viola awuor okello 673013
 - Nubuhoro Divine 673390
 - Manuela Atuhurire 665404
+
 This is a Python-based GUI Weather Detection App built using **PyQt6**, **OpenWeatherMap API**, and **OpenCV**. It allows users to get **current weather data**, **5-day forecasts**, and includes **image processing** for an enhanced background UI experience.
 
 ## 🔧 Features
